@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **html, css, js and react**
 
-- 👨‍💻 All of my projects are available at [gettyreal.github.io/Portfolio/](gettyreal.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [gettyreal.github.io/Portfolio/](https://gettyreal.github.io/Portfolio/)
 
 - ⚡ Fun fact **i am a skier too**
 
