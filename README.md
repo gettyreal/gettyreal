@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm gettyreal</h1>
 <h3 align="center">A Informatic student in italy</h3>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **Plinko Balls**
 
 - 🌱 I’m currently learning **html, css, js and react**
 
