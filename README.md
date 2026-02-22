@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm gettyreal</h1>
 <h3 align="center">A Informatic student in italy</h3>
 
-- 🔭 I’m currently working on **DASHBOARD-ORARI**
+- 🔭 I’m currently working on **EcoStrava**
 
-- 🌱 I’m currently learning **html, css, js web framewords and PHP**
+- 🌱 I’m currently learning **html, css, js web framewords and PHP Backends**
 
 - 👨‍💻 All of my projects are available at [gettyreal.github.io/Portfolio/](https://gettyreal.github.io/Portfolio/)
 
