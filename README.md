@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm gettyreal</h1>
-<br></br>
+<h2 align="left">Hello there, I'm gettyreal</h2>
 <h3>About me</h3>
 
 - 💻 Fifth year studying computer science
@@ -8,6 +7,7 @@
 - 👨‍💻 All of my projects are available at [gettyreal.github.io/Portfolio/](https://gettyreal.github.io/Portfolio/)
 - ⚡ Fun fact **i am a skier too**
 
+<!-- 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
@@ -18,5 +18,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30"/>
 </p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gettyreal&show_icons=true&locale=en&layout=compact" alt="gettyreal" /></p>
+-->
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gettyreal&show_icons=true&locale=en&layout=compact" alt="gettyreal" /></p>
