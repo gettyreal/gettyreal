@@ -2,7 +2,7 @@
 <br></br>
 <h3>About me</h3>
 
-- 💻 Fifth year studyin computer science
+- 💻 Fifth year studying computer science
 - 🔭 currently working on **ReuseIT**, a web marketplace where used electronics gets their second life
 - 🌱 learning **web framewords and PHP Backends**
 - 👨‍💻 All of my projects are available at [gettyreal.github.io/Portfolio/](https://gettyreal.github.io/Portfolio/)
