@@ -19,4 +19,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30"/>
 </p>
 -->
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gettyreal&show_icons=true&locale=en&layout=compact" alt="gettyreal" /></p>
+<p align="left">
+  <picture>
+    <!-- Dark mode -->
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=gettyreal&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true" 
+      media="(prefers-color-scheme: dark)"
+    />
+    <!-- Light mode -->
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=gettyreal&layout=compact&theme=default&bg_color=00000000&hide_border=true" 
+      media="(prefers-color-scheme: light)"
+    />
+    <!-- Fallback -->
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=gettyreal&layout=compact&bg_color=00000000&hide_border=true" 
+      alt="gettyreal"
+    />
+  </picture>
+</p>
